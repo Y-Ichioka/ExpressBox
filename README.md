@@ -5,6 +5,7 @@ ExpressBox is a super simple Vagrant Box in order to use the Express is a minima
 # What includes
 * Ubuntu 14.04 LTS (Trusty Tahr)
 * Node.js (v4.5.0 LTS)
+* Git
 * nvm https://github.com/creationix/nvm
 * npm
 	* express (in global)
